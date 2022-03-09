@@ -1,0 +1,255 @@
+{
+    "frames": {
+        "drag10.png": {
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 159,
+                "h": 217
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 159,
+                "h": 217
+            },
+            "sourceSize": {
+                "w": 159,
+                "h": 217
+            }
+        },
+        "drag11.png": {
+            "frame": {
+                "x": 162,
+                "y": 1,
+                "w": 172,
+                "h": 203
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 172,
+                "h": 203
+            },
+            "sourceSize": {
+                "w": 172,
+                "h": 203
+            }
+        },
+        "drag12.png": {
+            "frame": {
+                "x": 336,
+                "y": 1,
+                "w": 182,
+                "h": 203
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 182,
+                "h": 203
+            },
+            "sourceSize": {
+                "w": 182,
+                "h": 203
+            }
+        },
+        "drag1.png": {
+            "frame": {
+                "x": 162,
+                "y": 206,
+                "w": 155,
+                "h": 204
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 155,
+                "h": 204
+            },
+            "sourceSize": {
+                "w": 155,
+                "h": 204
+            }
+        },
+        "drag2.png": {
+            "frame": {
+                "x": 319,
+                "y": 206,
+                "w": 160,
+                "h": 204
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 204
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 204
+            }
+        },
+        "drag3.png": {
+            "frame": {
+                "x": 481,
+                "y": 206,
+                "w": 168,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 168,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 168,
+                "h": 200
+            }
+        },
+        "drag4.png": {
+            "frame": {
+                "x": 481,
+                "y": 408,
+                "w": 182,
+                "h": 222
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 182,
+                "h": 222
+            },
+            "sourceSize": {
+                "w": 182,
+                "h": 222
+            }
+        },
+        "drag5.png": {
+            "frame": {
+                "x": 520,
+                "y": 1,
+                "w": 160,
+                "h": 200
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 160,
+                "h": 200
+            },
+            "sourceSize": {
+                "w": 160,
+                "h": 200
+            }
+        },
+        "drag6.png": {
+            "frame": {
+                "x": 1,
+                "y": 632,
+                "w": 192,
+                "h": 225
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 192,
+                "h": 225
+            },
+            "sourceSize": {
+                "w": 192,
+                "h": 225
+            }
+        },
+        "drag7.png": {
+            "frame": {
+                "x": 195,
+                "y": 632,
+                "w": 167,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 167,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 167,
+                "h": 210
+            }
+        },
+        "drag8.png": {
+            "frame": {
+                "x": 364,
+                "y": 632,
+                "w": 200,
+                "h": 203
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 203
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 203
+            }
+        },
+        "drag9.png": {
+            "frame": {
+                "x": 566,
+                "y": 632,
+                "w": 174,
+                "h": 207
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 174,
+                "h": 207
+            },
+            "sourceSize": {
+                "w": 174,
+                "h": 207
+            }
+        }
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "spritesheet.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 741,
+            "h": 858
+        },
+        "scale": "1"
+    }
+}
